@@ -30,3 +30,7 @@ public:
         return result;
     }
 };
+
+
+// Time: O(n x log m) -> n = # of piles, m = max # in a pile
+//     Space: O(1)
